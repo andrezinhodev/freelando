@@ -18,7 +18,7 @@ const tema = {
       c: '',
     }, 
     neutras: {
-      a: '',
+      a: '#373737',
       b: '',
       c: '',
       d: ''
@@ -31,8 +31,12 @@ const tema = {
   },
   espacamentos: {
     s: '16px',
-    l: '32px'
+    m: '24px',
+    l: '32px',
+    xs: '8px',
+    xl: '48px'
   },
+  
   fontFamily: "'Montserrat', sans-serif"
 }
 
